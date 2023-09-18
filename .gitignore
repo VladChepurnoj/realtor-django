@@ -6,6 +6,7 @@ __pycache__/
 venv/
 env/
 
+wdist/
 # Ignore database files
 db.sqlite3
 
